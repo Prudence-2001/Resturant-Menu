@@ -1,4 +1,4 @@
-# Resturant Menu / Coffee Sho Menu
+# Resturant Menu / Coffee Shop Menu
 A simple coffee shop menu, built using HTML and CSS. 
 
 ## Technologies 
